@@ -1,16 +1,18 @@
 * {
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     box-sizing: border-box;
     margin: 0px;
   }
 
   h1 {
       text-align: center;
+      margin: 25px;
   }
 
   .row {
-      width: 100%;
-      padding-left: 5%;
-      padding-right: 5%;
+      width: 90%;
+      margin: 0 auto;
+      padding-left: 10%;
   }
 
   section {
@@ -120,7 +122,8 @@
       width: 74.99%;
     }
     .col-sm-10 {
-      width: 83.33%;
+      /* width: 83.33%; */
+      width: 86%
     }
     .col-sm-11 {
       width: 91.66%;
